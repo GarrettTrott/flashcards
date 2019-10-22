@@ -4,55 +4,42 @@ body {
 }
 
 #card {
-  margin-top: 40%;
+  margin: 20%;
   text-align: center;
 }
 
-#javascript {
-  cursor: pointer;
+.operatorsdiv {
+  display: none;
+}
+
+.variablesdiv {
+  display: none;
+}
+
+.functiondiv {
+  display: none;
+}
+
+.methodsdiv {
+  display: none;
 }
 
 #jsdefinition {
   display: none;
-  cursor: pointer;
-}
-
-#operators {
-  display: none;
-  cursor: pointer;
 }
 
 #operatorsdefinition {
   display: none;
-  cursor: pointer;
-}
-
-#variables {
-  display: none;
-  cursor: pointer;
 }
 
 #variablesdefinition {
   display: none;
-  cursor: pointer;
-}
-
-#function {
-  display: none;
-  cursor: pointer;
 }
 
 #functiondefinition {
   display: none;
-  cursor: pointer;
-}
-
-#methods {
-  display: none;
-  cursor: pointer;
 }
 
 #methodsdefinition {
   display: none;
-  cursor: pointer;
 }
