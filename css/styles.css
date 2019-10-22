@@ -1,35 +1,58 @@
+
+body {
+  text-align: center;
+}
+
+#card {
+  margin-top: 40%;
+  text-align: center;
+}
+
+#javascript {
+  cursor: pointer;
+}
+
 #jsdefinition {
   display: none;
+  cursor: pointer;
 }
 
 #operators {
   display: none;
+  cursor: pointer;
 }
 
 #operatorsdefinition {
   display: none;
+  cursor: pointer;
 }
 
 #variables {
   display: none;
+  cursor: pointer;
 }
 
 #variablesdefinition {
   display: none;
+  cursor: pointer;
 }
 
 #function {
   display: none;
+  cursor: pointer;
 }
 
 #functiondefinition {
   display: none;
+  cursor: pointer;
 }
 
 #methods {
   display: none;
+  cursor: pointer;
 }
 
 #methodsdefinition {
   display: none;
+  cursor: pointer;
 }
